@@ -60,7 +60,7 @@ restaurante_app/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/LugmanaCedenoJustinMauricio/restaurante_app_semana_12/tree/main/restaurante_app
+git clone https://github.com/LugmanaCedenoJustinMauricio/restaurante_app_semana_12.git
 ```
 
 ### 2. Ingresar al directorio del proyecto
